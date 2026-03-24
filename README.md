@@ -24,16 +24,11 @@ It uses a **Data Adapter** to automatically understand and convert any dataset i
 
 ## System Architecture
 
-User Upload
-⬇
-Data Adapter
-⬇
-Content-Based Model
-⬇
-Collaborative Model (if available)
-⬇
-Hybrid Model
-⬇
+User Upload ->
+Data Adapter ->
+Content-Based Model ->
+Collaborative Model (if available) ->
+Hybrid Model ->
 Recommendations
 
 ---
